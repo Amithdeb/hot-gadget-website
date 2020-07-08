@@ -1,0 +1,30 @@
+.cat-box-1{
+    text-align: center;
+    border-radius: 5px 20px 5px 30px;
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 50px 0px;
+}
+
+.cat-box-2{
+    text-align: center;
+    border-radius: 5px 20px 5px 30px;
+    box-shadow: 5px 5px 30px lightgray;
+    padding: 50px;
+    margin-left: 20px;
+}
+
+.cat-box-3{
+    text-align: center;
+    border-radius: 20px 5px 30px 5px;
+    box-shadow: 5px 5px 30px lightgray;
+    padding: 50px;
+    margin-left: 20px;
+}
+
+.cat-box-4{
+    text-align: center;
+}
+
+.cat-box-4 img, .cat-box-3 img, .cat-box-2 img{
+    width: 100%;
+}

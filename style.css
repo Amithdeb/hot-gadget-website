@@ -1,0 +1,8 @@
+.am{
+   border:20px solid green;
+   border-radius: 30px;
+   margin:10px 20px 30px 40px;
+   float: left;
+   display:inline-flexbox;
+
+}
